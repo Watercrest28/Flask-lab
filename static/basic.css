@@ -3,7 +3,7 @@ This controls the body of the page
 You can use this to set the background color, margins, etc. as shown below
 */
 body {
-    background-color: #444444;
+    background-color: #543c87;
     margin-top: 100px;
     margin-left: 10%;
     margin-right: 10%;
@@ -11,13 +11,13 @@ body {
   
   /* This is used to make profile picture cropped as a circle */
   img {
-    border-radius: 50%;
+    border-radius: 60%;
   }
   
   /* Formatting for different header levels, if you need them! */
   h1 {
-    margin-top: 20px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
     font-family: Averta, sans-serif;
     color: #fff;
     font-size: 56px;
